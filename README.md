@@ -2,7 +2,7 @@
 Current Projects are listed below.
 
 ## Velocity SMP - My Minecraft Server
-Join my minecraft server any play with other people 
+A Minecraft server for me and my friends play (Currently a School SMP)
 ### [Officical Website](https://fir15playz.github.io/Velocity-SMP/) of Velocity SMP
 
 ## Upcoming
